@@ -1,1 +1,1 @@
-console.loge("hikhurram;");
+console.log("hikhurram");
